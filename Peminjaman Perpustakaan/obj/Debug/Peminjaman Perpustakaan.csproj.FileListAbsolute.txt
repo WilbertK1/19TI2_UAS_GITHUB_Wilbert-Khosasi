@@ -1,0 +1,29 @@
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\bin\Debug\Peminjaman Perpustakaan.exe.config
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\bin\Debug\Peminjaman Perpustakaan.exe
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\bin\Debug\Peminjaman Perpustakaan.pdb
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.csprojAssemblyReference.cache
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormPeminjaman.resources
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormUtama.resources
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.exe
+C:\Users\Windows 10\source\repos\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.pdb
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\bin\Debug\Peminjaman Perpustakaan.exe.config
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\bin\Debug\Peminjaman Perpustakaan.exe
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\bin\Debug\Peminjaman Perpustakaan.pdb
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.csprojAssemblyReference.cache
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormPeminjaman.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormAdmin.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.Properties.Resources.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.csproj.GenerateResource.cache
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.csproj.CoreCompileInputs.cache
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.exe
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman Perpustakaan.pdb
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormUtama.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormMahasiswa.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\bin\Debug\Database\UAS_03082190025_03082190019.accdb
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormCekMahasiswa.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormCekBuku.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormCekPeminjamanPengembalian.resources
+C:\Users\ERIC\OneDrive\Desktop\Peminjaman Perpustakaan\obj\Debug\Peminjaman_Perpustakaan.FormPengembalian.resources
